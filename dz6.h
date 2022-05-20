@@ -1,5 +1,5 @@
-#ifndef EX6_H
-#define EX6_H
+#ifndef DZ6_H
+#define DZ6_H
 #include <iostream>
 #include <string>
 using namespace std;
@@ -49,4 +49,4 @@ double division(string a, string b);
 
 
 
-#endif EX6_H
+#endif 
